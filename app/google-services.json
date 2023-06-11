@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "418286676448",
+    "project_id": "cared4-ab4c1",
+    "storage_bucket": "cared4-ab4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418286676448:android:4669d2c85263e5f254e385",
+        "android_client_info": {
+          "package_name": "tech.pepar.cared4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418286676448-ml0t13jc93e67gfceumvrk3ovqigibqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.pepar.cared4",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "418286676448-44ncjjecm93j50a4t3fa4id5k2d8eoqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHRAAyZXdR9XDvyfF8mqHnOtcUYov4nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418286676448-44ncjjecm93j50a4t3fa4id5k2d8eoqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418286676448-1dju5f1g2kpd2t5h3q792s7ljep4sc63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.pepar.cared4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418286676448:android:7d90a69f755e20ff54e385",
+        "android_client_info": {
+          "package_name": "tech.pepar.cared4.cared_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418286676448-44ncjjecm93j50a4t3fa4id5k2d8eoqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHRAAyZXdR9XDvyfF8mqHnOtcUYov4nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418286676448-44ncjjecm93j50a4t3fa4id5k2d8eoqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418286676448-1dju5f1g2kpd2t5h3q792s7ljep4sc63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.pepar.cared4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
